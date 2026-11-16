@@ -13,7 +13,7 @@ require (
 	github.com/charmbracelet/lipgloss v1.1.1-0.20250404203927-76690c660834
 	github.com/charmbracelet/log v0.4.2
 	github.com/charmbracelet/x/editor v0.1.0
-	github.com/dustin/go-humanize v1.0.1
+	github.com/dustin/go-humanize v1.1.0
 	github.com/fsnotify/fsnotify v1.9.0
 	github.com/mattn/go-runewidth v0.0.16
 	github.com/mitchellh/go-homedir v1.1.0
