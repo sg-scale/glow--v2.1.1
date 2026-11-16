@@ -1,12 +1,10 @@
 module github.com/charmbracelet/glow/v2
 
-go 1.23.6
-
-toolchain go1.24.1
+go 1.26.0
 
 require (
 	github.com/atotto/clipboard v0.1.4
-	github.com/caarlos0/env/v11 v11.3.1
+	github.com/caarlos0/env/v11 v11.4.2
 	github.com/charmbracelet/bubbles v0.21.0
 	github.com/charmbracelet/bubbletea v1.3.5
 	github.com/charmbracelet/glamour v0.10.0
